@@ -1,73 +1,56 @@
+![Header](https://capsule-render.vercel.app/api?type=rect&color=00ff41&height=120&section=header&text=Birejderhavcisi&fontSize=70&fontColor=000000&fontAlign=50&animation=fadeIn)
+
+<h3 align="center">🏆 Achievements Unlocked</h3>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=System.init(User+%3A+%22Çöloğlu%22);Full+Stack+Developer;UI%2FUX+Designer;Open+Source+Enthusiast" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=050505&height=100&section=header&text=Visitor@Cologlu:~$%20welcome&fontSize=30&fontColor=38bdf8&animation=fadeIn&fontAlignY=35" />
-</div>
-
-<div align="center">
-  <img align="right" width="40%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-  
-  <div align="left">
-    <h3>👨‍💻 Hakkımda</h3>
-    <p>
-      Merhaba! Ben <strong>Yavuz</strong>. Modern web teknolojileriyle, <b>performanslı</b> ve <b>estetik</b> uygulamalar geliştiriyorum. Kod yazmak benim için sadece bir iş değil, karmaşık problemleri çözdüğüm bir bulmaca oyunudur.
-    </p>
-    <p>
-      🔭 Şu an üzerinde çalıştığım: <b>E-Ticaret Sistemleri & Real-Time App</b><br>
-      🌱 Öğrendiğim: <b>Advanced Three.js & Cyber Security</b><br>
-      ⚡ Eğlenceli gerçek: <b>Terminalimde yılan oyunu oynarım.</b><br>
-      📫 Bana ulaşın: <b>yavuz.cologluu@gmail.com</b>
-    </p>
-    
-    <a href="https://linkedin.com/in/cologluyavuz">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:yavuz.cologluu@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://cologlu.dev">
-      <img src="https://img.shields.io/badge/Portfolio-00ff41?style=for-the-badge&logo=googlechrome&logoColor=black" />
-    </a>
-  </div>
-</div>
-
-<br clear="all" />
-
-<h3 align="center">🛠️ Teknoloji Cephaneliğim</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nodejs,express,python,java,html,css,tailwind,bootstrap&theme=dark&perline=14" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,firebase,git,github,docker,linux,figma,vscode,postman,npm&theme=dark&perline=14" />
-</div>
-
-<br/>
-
-<h3 align="center">📊 GitHub Analizleri</h3>
-<div align="center">
-  <a href="https://github.com/birejderhavcisi">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=birejderhavcisi&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=38bdf8&text_color=c9d1d9&count_private=true&include_all_commits=true" height="180" />
-  </a>
-  <a href="https://github.com/birejderhavcisi">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=birejderhavcisi&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff00c1&text_color=c9d1d9&langs_count=8" height="180" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=birejderhavcisi&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=15" />
   </a>
 </div>
 
 <br/>
 
+<h3 align="center">👨‍💻 Coding Profile</h3>
+
+<p align="center">
+  <a href="https://github.com/birejderhavcisi">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=birejderhavcisi&show_icons=true&theme=radical&rank_icon=github&hide_border=true" />
+  </a>
+  <a href="https://github.com/birejderhavcisi">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=birejderhavcisi&layout=compact&theme=radical&hide_border=true" />
+  </a>
+</p>
+
+<h3 align="center">💻 Tech Stack</h3>
+<table align="center">
+  <tr>
+    <td align="center" width="100">Frontend</td>
+    <td align="center" width="100">Backend</td>
+    <td align="center" width="100">Database</td>
+    <td align="center" width="100">Design</td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,python,java" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mongo,postgres,redis" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
+    </td>
+  </tr>
+</table>
+
+<h3 align="center">📅 Contribution Graph</h3>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=birejderhavcisi&theme=dark&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=38bdf8&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=birejderhavcisi&bg_color=0d1117&color=00ff41&line=38bdf8&point=ff00c1&area=true&hide_border=true" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github.com/birejderhavcisi/birejderhavcisi/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=birejderhavcisi&style=for-the-badge&color=00ff41&label=SYSTEM+ACCESS+COUNT" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=435&lines=Coding+is+not+just+code,+it's+an+art.;Every+bug+is+just+an+undocumented+feature." />
 </div>
